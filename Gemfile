@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.1.0'
+# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
 # Rails defaults
@@ -14,7 +15,7 @@ gem 'jbuilder', '~> 1.2'
 
 # learn-rails
 gem 'activerecord-tableless'
-gem 'compass-rails', "~> 1.1.2"
+gem "compass-rails", "~> 1.1.2"
 gem 'figaro'
 gem 'gibbon'
 gem 'google_drive'
